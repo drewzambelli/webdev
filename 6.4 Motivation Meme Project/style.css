@@ -1,0 +1,21 @@
+body {
+    background-color: whitesmoke;
+}
+
+#outer {
+    width: 600px;
+    height: 400px;
+    text-align:center;
+    background-color: black;
+    color: yellow;
+    margin: 25px;
+    border-color: yellow;
+    border-width: 100px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-color: yellow;
+    border-width: 10px;
+}
