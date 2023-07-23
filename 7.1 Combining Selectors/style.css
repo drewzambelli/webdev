@@ -1,1 +1,22 @@
 /* Write your code here: */
+h1, h2 { /*this is how to select multiple html classes*/
+    color: blueviolet;
+}
+
+.box > .done { /*this is how to select a parent and just one descendant*/
+    color: firebrick;
+}
+
+.box li { /*selecting just LI descendants of our .box class*/
+    color: blue;
+}
+
+ul p.done { /*chaing p html class with .done class*/
+    color: black;
+    font-size: .5rem;
+}
+
+p {
+    color: green;
+}
+
